@@ -13,6 +13,12 @@ lerna-debug.log*
 # OS
 .DS_Store
 
+#Mysql
+.mysql-data
+
+#ENV
+.env
+
 # Tests
 /coverage
 /.nyc_output
